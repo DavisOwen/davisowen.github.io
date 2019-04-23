@@ -455,3 +455,31 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+#profile-pic {
+    width:25%;
+    height:auto;
+    border-radius:50%;
+}
+
+#modal-1 {
+    width:auto;
+    height:auto;
+}
+
+#post-1 {
+    width:auto;
+    height:260px;
+    padding-left:45px;
+}
+
+#modal-2 {
+    width:auto;
+    height:auto;
+}
+
+#post-2 {
+    width:auto;
+    height:260px;
+    padding-left:45px;
+}
