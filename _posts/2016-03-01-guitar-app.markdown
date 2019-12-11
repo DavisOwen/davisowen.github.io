@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2019
 #client: Start Bootstrap
 category: Front End Development
-description: A <a href="guitar_app.html">virtual guitar</a> playable in browser, made with React.js.
+description: A <a href="guitar_app.html">virtual guitar</a> playable in browser, made with React.js. Code found <a href="https://github.com/DavisOwen/guitar_app">here</a>.
 
 ---
